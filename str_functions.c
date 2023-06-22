@@ -47,7 +47,8 @@ int _sch(char *s, char c)
 }
 
 /**
- * _strtoky - the function that cut a string into tokens depending on the delimit
+ * _strtoky - the function that cut a string into 
+ * tokens depending on the delimit
  * @s: the string to cut into parts
  * @d: the delimiters
  * Return: the first partition
